@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45623196222",
+    "project_id": "listenyoutube-159213"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45623196222:android:2ca7480bc4e5a032",
+        "android_client_info": {
+          "package_name": "com.flying.pi.youtubedownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45623196222-160crcbqep9oerm4aa2pqiijmne2cqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flying.pi.youtubedownloader",
+            "certificate_hash": "4C9E177E7E318070601CA5E71D4E2C190B287A39"
+          }
+        },
+        {
+          "client_id": "45623196222-avce7bjhlmo3rn4hj5gpke925qtrb95i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogsoz7Bw3GKXBr8itjhVtcXEaVv8hVY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
